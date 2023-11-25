@@ -1,3 +1,5 @@
 [default]
  172.31.56.121 ansible_ssh_private_key_file=/Users/rahulwagh/.ssh/ansible_demo
  43.204.145.228  ansible_ssh_private_key_file=/Users/rahulwagh/.ssh/ansible_demo
+ 13.235.71.56
+  
